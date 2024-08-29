@@ -32,3 +32,7 @@ python python memory game.py
 4. If the emojis do not match, they will be hidden after a short delay.
 5. Continue until all pairs are found.
 6. A message will appear when the game is completed, offering the option to play again.
+
+## Gameplay Image
+
+![Memory output](https://github.com/user-attachments/assets/4b9ad3fc-76ea-4a8e-ab43-0bfd2d000a46)
