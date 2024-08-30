@@ -21,6 +21,7 @@ This is a simple memory game built using Python and Tkinter, where players match
 3. Run the script using Python.
 
 ```
+pip install -r requirements.txt
 python python memory game.py
 ```
 
